@@ -1,0 +1,17 @@
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\bin\Debug\netcoreapp2.1\DatingApp.API2.deps.json
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\bin\Debug\netcoreapp2.1\DatingApp.API2.runtimeconfig.json
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\bin\Debug\netcoreapp2.1\DatingApp.API2.runtimeconfig.dev.json
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\bin\Debug\netcoreapp2.1\DatingApp.API2.dll
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\bin\Debug\netcoreapp2.1\DatingApp.API2.pdb
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.csprojAssemblyReference.cache
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.AssemblyInfoInputs.cache
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.AssemblyInfo.cs
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.csproj.CoreCompileInputs.cache
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.RazorAssemblyInfo.cache
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.RazorAssemblyInfo.cs
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.RazorTargetAssemblyInfo.cache
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.dll
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.pdb
+C:\Users\eokosobo\DatingApp\DatingApp.Api2\obj\Debug\netcoreapp2.1\DatingApp.API2.genruntimeconfig.cache
